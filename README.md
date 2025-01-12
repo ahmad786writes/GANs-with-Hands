@@ -40,10 +40,9 @@ Ensure all dependencies are installed to run the notebook smoothly.
    ```
 
 ## Results
-
-The notebook showcases:
 ![Results](results.png)
 
+The notebook showcases:
 - Generated hand images after specific training epochs.
 - Loss curves for both generator and discriminator during training.
 
