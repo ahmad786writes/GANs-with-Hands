@@ -42,6 +42,7 @@ Ensure all dependencies are installed to run the notebook smoothly.
 ## Results
 
 The notebook showcases:
+![Alt text](results.png)
 - Generated hand images after specific training epochs.
 - Loss curves for both generator and discriminator during training.
 
